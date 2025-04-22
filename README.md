@@ -32,7 +32,7 @@ This interactive Tableau dashboard provides a comprehensive analysis of sales an
 
 ## 👤 Creator
 
-**[Chandana S R]**  
+**Chandana S R**  
 Aspiring Data Analyst | Skilled in Tableau, SQL, Excel, and Python  
 
 
