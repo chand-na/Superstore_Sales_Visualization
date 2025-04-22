@@ -32,16 +32,11 @@ This interactive Tableau dashboard provides a comprehensive analysis of sales an
 
 ## 👤 Creator
 
-**[Your Name]**  
+**[Chandana S R]**  
 Aspiring Data Analyst | Skilled in Tableau, SQL, Excel, and Python  
-[LinkedIn Profile Link]  
-[Email Address]
+
 
 ## 🔗 Dashboard Link
 
-👉 [View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/your-profile-name/viz/TableauSampleDataViz/SalesandProfitAnalysis)  
-*(Update this with your actual Tableau Public URL)*
+👉 [View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/chandana.s.r/viz/TableauSampleDataViz/Dashboard1)  
 
-## 📬 Feedback
-
-Feel free to connect with me on LinkedIn or send an email if you have feedback or suggestions!
