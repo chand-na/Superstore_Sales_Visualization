@@ -35,5 +35,5 @@ Aspiring Data Analyst | Skilled in Tableau, SQL, Excel, and Python
 
 ## 🔗 Dashboard Link
 
-👉 [View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/chandana.s.r/viz/TableauSampleDataViz/Dashboard1)  
+👉 [View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/chandana.s.r/viz/SuperstoreDahboard_17454520963770/SuperstoreDashboard)  
 
