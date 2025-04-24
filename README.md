@@ -16,9 +16,6 @@ This interactive Tableau dashboard provides a comprehensive analysis of sales an
 - **Customer Segment Insights**  
   Understand which customer segments generate the most revenue and profit.
 
-- **Regional and State-Level Analysis**  
-  Geographic views showing how sales and profit vary across regions and states.
-
 - **Discount vs. Profit Relationship**  
   Scatter plot illustrating the impact of discount rates on profitability to aid in pricing strategy optimization.
 
